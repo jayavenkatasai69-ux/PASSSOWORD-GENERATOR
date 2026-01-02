@@ -1,0 +1,2 @@
+# PASSSOWORD-GENERATOR
+creating RANDOM PASSWORD GENERATOR by using python 
